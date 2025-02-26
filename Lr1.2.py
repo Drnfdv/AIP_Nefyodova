@@ -1,0 +1,6 @@
+n = int(input("Введите кол-во пингвинов: "))
+print('   _~_   ' * n)
+print('  (o o)  ' * n)
+print('  / V \  ' * n)
+print(' /( _ )\ ' * n)
+print('  ^^ ^^  ' * n)
